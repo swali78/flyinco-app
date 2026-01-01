@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="166" height="57" viewBox="0 0 166 57">
+  <g id="Component_7_1" data-name="Component 7 – 1" transform="translate(1)">
+    <text id="TravelFares" transform="translate(82 38)" fill="#010101" font-size="38" font-family="Coves-Light, Coves" font-weight="300"><tspan x="-82.445" y="0">Travel</tspan><tspan y="0" fill="#f5dc0c" font-family="GreycliffCF-DemiBold, Greycliff CF">Fares</tspan></text>
+    <text id="Cheapest_Flights_Hotels" data-name="Cheapest Flights &amp; Hotels" transform="translate(82 54)" fill="#b2b2b2" font-size="12" font-family="GreycliffCF-Light, Greycliff CF" font-weight="300"><tspan x="-63.33" y="0">Cheapest Flights &amp; Hotels</tspan></text>
+  </g>
+</svg>
